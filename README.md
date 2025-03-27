@@ -54,7 +54,7 @@ Token bridges enable interoperability between different blockchain networks.
 
 - **Clone the Repository**:
   ```
-  git clone https://github.com/yourusername/your-repo-name.git
+  git clone https://github.com/Solomon-0xGuardian
   ```
 - **Explore the Code**: Navigate through the directories to find the smart contracts and related scripts.
 - **Deploy and Test**:
